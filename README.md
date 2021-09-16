@@ -1,6 +1,6 @@
 ## Oi, eu sou Mari!
 
-- 🌱 Desenvolvedora FullStack Java Jr. em Formação!
+- 🌱 Desenvolvedora Web em Formação!
 - 👩‍🎓 Aula da Generation Brasil
 - 👾 Pronomes: Ela/Dela
 
