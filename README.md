@@ -1,7 +1,7 @@
 ## Oi, eu sou Mari!
 
 - 🌱 Desenvolvedora Web em Formação!
-- 👩‍🎓 Aula da Generation Brasil
+- 👩‍🎓 Aluna da Generation Brasil
 - 👾 Pronomes: Ela/Dela
 
   ##
