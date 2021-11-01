@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/sgRtb01n/helloworld.png" min-width="250px" max-width="280px" width="280px" align="right" alt="computador marianatheml">
+<img src="https://i.postimg.cc/sgRtb01n/helloworld.png" min-width="220px" max-width="220px" width="220px" align="right" alt="computador marianatheml">
 
 <p align="left"> 
   Oi, eu sou Mari! <br> Sou <strong>Desenvolvedora Full-Stack</strong> em formação pela <strong>Generation Brasil</strong>.
