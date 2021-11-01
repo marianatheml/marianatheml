@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/sgRtb01n/helloworld.png" min-width="250px" max-width="400px" width="400px" align="right" alt="computador marianatheml">
+<img src="https://i.postimg.cc/sgRtb01n/helloworld.png" min-width="250px" max-width="280px" width="280px" align="right" alt="computador marianatheml">
 
 <p align="left"> 
   Oi, eu sou Mari! <br> Sou <strong>Desenvolvedora Full-Stack</strong> em formação pela <strong>Generation Brasil</strong>.
@@ -28,8 +28,8 @@
 
 ## <div align="center">
   <a href="https://github.com/marianatheml">
-  <img height="95em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianatheml&layout=compact&langs_count=7&theme=omni"/>
-  <img height="95em" src="https://github-readme-stats.vercel.app/api?username=marianatheml&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianatheml&layout=compact&langs_count=7&theme=omni"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=marianatheml&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
  
 </div>  
   
