@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
+<img src="https://i.postimg.cc/sgRtb01n/helloworld.png" min-width="250px" max-width="200px" width="200px" align="right" alt="computador marianatheml">
 
 <p align="left"> 
   Oi, eu sou Mari! <br> Sou <strong>Desenvolvedora Full-Stack</strong> em formação pela <strong>Generation Brasil</strong>.
