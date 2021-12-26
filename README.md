@@ -1,7 +1,7 @@
 <img src="https://i.postimg.cc/sgRtb01n/helloworld.png" min-width="220px" max-width="210px" width="210px" align="right" alt="computador marianatheml">
 
 <p align="left"> 
-  Oi, eu sou Mari! <br> Sou <strong>Desenvolvedora Full-Stack</strong> formada pela <strong>Generation Brasil</strong>.
+  Oi, eu sou Mari! <br> Sou <strong>Desenvolvedora Full Stack</strong> formada pela <strong>Generation Brasil</strong>.
 </p>
 <p align="left">
   🦄 Pronomes: <strong>Ela/Dela.</strong>
