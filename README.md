@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/RukwYtJ.png" width="240px" align="right" alt="computador marianatheml">
+<img src="https://i.imgur.com/RukwYtJ.png" width="230px" align="right" alt="computador marianatheml">
 
 <p align="left"> 
   Oi, eu sou Mari! <br> Sou <strong>Desenvolvedora Full Stack</strong> formada pela <strong>Generation Brasil</strong>.
