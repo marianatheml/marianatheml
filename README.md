@@ -24,14 +24,6 @@
     <img src="https://img.shields.io/badge/-Gmail-1c1424?style=for-the-badge&logo=gmail&logoColor=FF79C6"/>
   </a>
 </p>
-
-##
-
-<div align="center">
-  <a href="https://github.com/marianatheml">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianatheml&layout=compact&langs_count=7&theme=omni"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=marianatheml&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-</div>
   
 ##  
   
