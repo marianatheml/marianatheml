@@ -1,14 +1,11 @@
 <img src="https://i.imgur.com/RukwYtJ.png" width="210px" align="right" alt="computador marianatheml">
 
 <p align="left"> 
-  Oi, eu sou Mari! <br> Sou <strong>Desenvolvedora Front-end</strong>.
-</p>
-<p align="left">
-  🦄 Pronomes: <strong>Ela/Dela.</strong>
+  Hi, my name is Mariana! <br> I'm a <strong>Front-end developer</strong>.
 </p>
 
 <p align="left">
-  💌 Pode falar comigo por aqui: ⤵️
+  💌 Feel free to connect with me: ⤵️
 </p>
 
 <p align="left">
